@@ -1,1 +1,1 @@
-# odin-recipes
+A simple HTML practice for showing recipes!
